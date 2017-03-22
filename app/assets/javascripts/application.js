@@ -17,5 +17,5 @@
 //= require jquery.easing
 //= require js/jqBootstrapValidation
 //= require js/contact_me
-//= require js/agency.min
+//= require js/agency
 //= require_tree .
