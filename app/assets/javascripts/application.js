@@ -14,4 +14,8 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap-sprockets
+//= require jquery.easing
+//= require agency/js/jqBootstrapValidation
+//= require agency/js/contact_me
+//= require agency/js/agency.min
 //= require_tree .
